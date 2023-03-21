@@ -1,0 +1,7 @@
+print("Hello World")
+print("Hello SMF")
+print("I am Gokul")
+print("pavi")
+print("Hello Mohamed Anas")
+print("im deepak")
+print("mohamed muhsin")
