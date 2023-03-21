@@ -1,0 +1,2 @@
+print("No Entry")
+
