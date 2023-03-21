@@ -1,5 +1,5 @@
 print("helloword")
+print("pavi")
 print("Hello SMF")
 print("im gokul")
-print ("Hello SMT")
 print("Hello Mohamed Anas")
